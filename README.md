@@ -1,2 +1,2 @@
 # estado-cidade
-População dos estados e cidades brasileiras
+População dos estados e cidades do Brasil
